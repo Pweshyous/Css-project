@@ -1,0 +1,104 @@
+body {
+background-color: rgb(1, 1, 37);
+}
+
+div {
+    height: 38rem;
+    width: 19rem;
+    background-color: rgba(10, 10, 68, 0.938);
+    border-radius: 4%;
+    margin-left: 21rem;
+}
+
+.image {
+    height: 21rem;
+    width: 16.5rem;
+    border-radius: 4%;
+    margin-left: 1.25rem;
+    margin-top: 1.5rem;
+}
+
+h1 {
+    color: white;
+    font-family: calibri;
+    font-size: 1.2rem;
+    padding-left: 1.3rem;
+    padding-top: 0.5rem;
+}
+
+.content {
+    font-size: medium;
+    font-family: calibri;
+    color:rgb(99, 126, 247);
+    padding-left: 1.3rem;
+}
+
+.etherum {
+    height:20px;
+    width: 12px;
+    padding-left: 1.3rem;
+}
+.ETH {
+    color: aqua;
+    padding-left: 0.3rem;    
+    font-family: calibri;
+    font-size: medium;
+}
+
+#clock {
+    padding-left: 4.5rem;
+}
+
+#days {
+    color:rgb(99, 126, 247);
+    font-size: medium;
+    font-family: calibri;
+}
+
+#line {
+    color: rgb(99, 126, 247);
+    padding-left: 1.6rem;
+}
+
+.avatar {
+    width:1.8rem;
+    height: 1.8rem;
+    border-radius: 50%;
+    border-style:solid;
+    border-color: white;
+    margin-left: 1.3rem;
+    }
+
+    .creation {
+        font-size: medium;
+        font-family: calibri;
+        color:rgb(99, 126, 247);
+      
+        
+    }
+
+    #creation {
+        font-size: medium;
+        font-family: calibri;
+        color:white;
+       
+    }
+
+    footer {
+        font-size: small;
+        font-family: 'Times New Roman'; 
+        color: rgba(25, 187, 216, 0.726);
+        text-align: center;
+        margin-top: 1rem;
+    }
+
+    #footer {
+        height:2rem;
+        width: 19rem;
+        background-color: rgba(10, 10, 68, 0.938);
+        border-radius: 4%;
+    }
+
+    #encoded {
+        float: right;
+    }
